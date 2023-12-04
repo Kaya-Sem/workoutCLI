@@ -1,0 +1,2 @@
+# workoutCLI
+ CLI workout tracker
